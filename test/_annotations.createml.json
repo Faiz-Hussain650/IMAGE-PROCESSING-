@@ -1,0 +1,343 @@
+[
+    {
+        "image": "IMG_0043 2_jpg.rf.c1e7848d52119882bc38460c8de32a05.jpg",
+        "annotations": [
+            {
+                "label": "person",
+                "coordinates": {
+                    "x": 314,
+                    "y": 176,
+                    "width": 50.5,
+                    "height": 122
+                }
+            },
+            {
+                "label": "person",
+                "coordinates": {
+                    "x": 259.5,
+                    "y": 180,
+                    "width": 56,
+                    "height": 124
+                }
+            },
+            {
+                "label": "person",
+                "coordinates": {
+                    "x": 205.5,
+                    "y": 175,
+                    "width": 79,
+                    "height": 129
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0045_jpg.rf.ad3c08866b3f0999d4d2e8dde9886246.jpg",
+        "annotations": [
+            {
+                "label": "dog",
+                "coordinates": {
+                    "x": 196,
+                    "y": 230.5,
+                    "width": 392,
+                    "height": 359.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0040 2_jpg.rf.94ca5121f351ee259e584a41b26e18e4.jpg",
+        "annotations": [
+            {
+                "label": "dog",
+                "coordinates": {
+                    "x": 281,
+                    "y": 219.5,
+                    "width": 179.5,
+                    "height": 212.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0033 2_jpg.rf.1ce012dff1ceb8d37c2ee1edd005843b.jpg",
+        "annotations": [
+            {
+                "label": "person",
+                "coordinates": {
+                    "x": 314,
+                    "y": 226,
+                    "width": 20.5,
+                    "height": 69
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0031 2_jpg.rf.0872acd4c7cf3d7de868b3ab2d7e464f.jpg",
+        "annotations": [
+            {
+                "label": "person",
+                "coordinates": {
+                    "x": 358,
+                    "y": 305,
+                    "width": 29,
+                    "height": 85.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0022_jpg.rf.c89662890a0f5d8a915677ed21165d2b.jpg",
+        "annotations": [
+            {
+                "label": "dog",
+                "coordinates": {
+                    "x": 221,
+                    "y": 262.5,
+                    "width": 236.5,
+                    "height": 276
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0023 3_jpg.rf.ac45d9a3e591d1377f50b25c2415a5b7.jpg",
+        "annotations": []
+    },
+    {
+        "image": "IMG_0024 2_jpg.rf.7f92f2bd29719c59c66c307fe5c3df44.jpg",
+        "annotations": [
+            {
+                "label": "person",
+                "coordinates": {
+                    "x": 268,
+                    "y": 227.5,
+                    "width": 21,
+                    "height": 37.5
+                }
+            },
+            {
+                "label": "person",
+                "coordinates": {
+                    "x": 248.5,
+                    "y": 231,
+                    "width": 22.5,
+                    "height": 38
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0106_jpg.rf.a36615f0dcd4336c8340cf7808243766.jpg",
+        "annotations": [
+            {
+                "label": "dog",
+                "coordinates": {
+                    "x": 341,
+                    "y": 326,
+                    "width": 80,
+                    "height": 157
+                }
+            },
+            {
+                "label": "person",
+                "coordinates": {
+                    "x": 200,
+                    "y": 166.5,
+                    "width": 66.5,
+                    "height": 298
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0059_jpg.rf.ffed5e3340bcdbc728dabf6c37bc9607.jpg",
+        "annotations": [
+            {
+                "label": "dog",
+                "coordinates": {
+                    "x": 294.5,
+                    "y": 326.5,
+                    "width": 206.5,
+                    "height": 176
+                }
+            },
+            {
+                "label": "person",
+                "coordinates": {
+                    "x": 155,
+                    "y": 214.5,
+                    "width": 217,
+                    "height": 401
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0114_jpg.rf.09289782690848a6c751392eb25a337d.jpg",
+        "annotations": [
+            {
+                "label": "dog",
+                "coordinates": {
+                    "x": 214,
+                    "y": 211,
+                    "width": 400,
+                    "height": 407.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0113_jpg.rf.518ce21582555915f942463375a135b0.jpg",
+        "annotations": []
+    },
+    {
+        "image": "IMG_0037 2_jpg.rf.a1d14bb4884fa1a64164b3bf6b187746.jpg",
+        "annotations": [
+            {
+                "label": "person",
+                "coordinates": {
+                    "x": 349.5,
+                    "y": 152.5,
+                    "width": 17.5,
+                    "height": 58
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0115_jpg.rf.d98b284276fedb91c8870cb59fba988a.jpg",
+        "annotations": [
+            {
+                "label": "dog",
+                "coordinates": {
+                    "x": 214,
+                    "y": 248.5,
+                    "width": 400,
+                    "height": 332.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0060_jpg.rf.f2ca14907be0dffbc84fe1ee02c92731.jpg",
+        "annotations": [
+            {
+                "label": "person",
+                "coordinates": {
+                    "x": 150,
+                    "y": 213,
+                    "width": 222.5,
+                    "height": 402.5
+                }
+            },
+            {
+                "label": "dog",
+                "coordinates": {
+                    "x": 282.5,
+                    "y": 323,
+                    "width": 214,
+                    "height": 183.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0012 2_jpg.rf.4c8e033ea0189ebd28c4e3751edd7a6a.jpg",
+        "annotations": [
+            {
+                "label": "person",
+                "coordinates": {
+                    "x": 225.5,
+                    "y": 214,
+                    "width": 40,
+                    "height": 134.5
+                }
+            },
+            {
+                "label": "person",
+                "coordinates": {
+                    "x": 180.5,
+                    "y": 223.5,
+                    "width": 46,
+                    "height": 136
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0009_jpg.rf.ecdb212f7d7796e682a87e2e1d6e907e.jpg",
+        "annotations": [
+            {
+                "label": "dog",
+                "coordinates": {
+                    "x": 215.5,
+                    "y": 238.5,
+                    "width": 52,
+                    "height": 42
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0002 4_jpg.rf.6d1c60bf9f8779f13291c0547ea1ff70.jpg",
+        "annotations": [
+            {
+                "label": "person",
+                "coordinates": {
+                    "x": 293,
+                    "y": 216,
+                    "width": 34,
+                    "height": 65
+                }
+            },
+            {
+                "label": "person",
+                "coordinates": {
+                    "x": 246.5,
+                    "y": 214.5,
+                    "width": 51,
+                    "height": 76
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0027_jpg.rf.888f9a5d05a43267ac39a7c09cd0fc4b.jpg",
+        "annotations": [
+            {
+                "label": "dog",
+                "coordinates": {
+                    "x": 200.5,
+                    "y": 226,
+                    "width": 258.5,
+                    "height": 271.5
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_0006 5_jpg.rf.cd46e6a862d6ffb7fce6795067ce7cc7.jpg",
+        "annotations": [
+            {
+                "label": "person",
+                "coordinates": {
+                    "x": 142.5,
+                    "y": 195,
+                    "width": 110.5,
+                    "height": 387.5
+                }
+            },
+            {
+                "label": "dog",
+                "coordinates": {
+                    "x": 221,
+                    "y": 314.5,
+                    "width": 76.5,
+                    "height": 192
+                }
+            }
+        ]
+    }
+]
